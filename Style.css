@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+
+}
+
+body {
+  font-family: "Young Serif", serif;
+}
+
+
+.container {
+  padding: 50px;
+}
+
+.section-one {
+  bACKground-color: BLACK;
+  color: white;
+  padding: 20PX;
+
+}
+
+.section-one__contact {
+  background-color: orangered;
+  color: black;
+  text-decoration: none;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+
+}
+
+.section-one__name {
+  font-size: 45px;
+}
+
+.section-one__role {
+  margin-bottom: 10px;
+}
+
+.section-two,
+.section-three,
+.section-four {
+  margin-top: 10Px;
+  margin-bottom: 5px;
+
+}
+
+.section-three__deee{
+  margin-left: 25px;
+ 
+  
+}
+.section-four{
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+.section-four a{
+  color: skyblue;
+}
